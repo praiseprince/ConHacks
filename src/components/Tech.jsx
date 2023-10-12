@@ -17,6 +17,10 @@ const Tech = () => {
 
   const faqItems = [
     {
+      question: "What is a hackathon?",
+      answer:
+    "A hackathon is an event where \"hackers\" gather to brainstorm and develop ideas related to a given theme, which, in this case, will be revealed during the opening ceremony. Participants create and implement their concepts, whether in software, web applications or something else. While a winning submission is recognized, it's also a valuable opportunity for learning and networking, regardless of the outcome."    },
+    {
       question: "When and where is the hackathon taking place?",
       answer:
         "ConHacks is scheduled for October 22, 2023, and will be hosted at Conestoga College's Waterloo campus.",
