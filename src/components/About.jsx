@@ -71,9 +71,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Thank you for your interest in ConHacks on October 22, 2023, at Conestoga College, Waterloo Campus. We are excited to have received a great response during the application period. Unfortunately, applications for this year's event have now closed.
-
-ConHacks invites you to create, innovate, network, and most importantly, have fun coding! This hackathon is the first iteration of Conestoga College's yearly hackathon and will feature over 100 participants, judges, mentors, as well as amazing merchandise, prizes, and complimentary food. While applications are no longer being accepted, you can still check out our schedule for an exciting day of hacking, judging, and networking.</motion.p>
+        Join us for ConHacks on October 22, 2023, at Conestoga College, Waterloo Campus. This hackathon invites you to create, innovate, network, and most importantly have fun coding! ConHacks is the first iteration of Conestoga Colleges yearly hackathon. With over 100 participants, judges and mentors, and awesome merch, prizes and free food, seize the opportunity to create something impactful. Check out our schedule for an exciting day of hacking, judging, and networking!</motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (

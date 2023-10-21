@@ -34,10 +34,10 @@ export const navLinks = [
 ];
 
 const services = [
-  /*{
+  {
     title: "Apply Now",
-    link: "https://forms.gle/TapGeJRxgKEadvZq6"
-  },*/
+    link: "https://forms.gle/TapGeJRxgKEadvZq6" 
+  },
 ];
 
 const experiences = [
